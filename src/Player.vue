@@ -4,7 +4,7 @@
       <div class="tw-flex tw-flex-col tw-items-center tw-mt-4">
         <div class="tw-inline-flex tw-flex-col tw-items-center">
           <div class="tw-inline-flex tw-flex-row">
-            <h3 class="player-name">XNS AUDIO PLAYER</h3>
+            <h3 class="player-name">MAGNUS AUDIO PLAYER</h3>
             <img src="./assets/logo.png" alt="logo" class="logo">
           </div>
           <div class="tw-inline-flex tw-flex-row tw-items-center tw-align-middle tw-mt-2">
